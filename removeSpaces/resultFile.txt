@@ -1,0 +1,1 @@
+packageru.Pets;publicclassCatextendsPets{@Overridevoidmove(){nameOfAnAnimal=Кошка;System.out.println(nameOfAnAnimal+крадется);}@Overridevoidtalk(){System.out.println(nameOfAnAnimal+говорит:мяу-мяу!);System.out.println();}}
