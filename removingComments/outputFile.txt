@@ -1,0 +1,7 @@
+package com.Anton;
+ 
+ 
+ public class inputFile {
+          print("Hello, world!");
+     
+ }
